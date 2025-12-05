@@ -3,7 +3,7 @@
 This repository contains the source code, analysis scripts, and datasets used to generate the results presented in the research article:
 
 > **Overlapping function of the endoplasmic reticulum proteins MCTP-1 and ESYT-2 in synaptic vesicle recycling in Caenorhabditis elegans**
-> *Fernando I. Tovilla-Loza, JL Téllez-Arreola, Ignacio Martínez-García, Reinher Pimentel-Domínguez, Remy Avila, Marius Seidenthal, Alexander Gottschalk, Ataúlfo Martínez-Torres *
+> *Fernando I. Tovilla-Loza, JL Téllez-Arreola, Ignacio Martínez-García, Reinher Pimentel-Domínguez, Remy Avila, Marius Seidenthal, Alexander Gottschalk, Ataúlfo Martínez-Torres*
 
 
 The repository is organized into three main components:
